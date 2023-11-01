@@ -6,9 +6,9 @@
 ### Requriements 
 **OS Supported:**
 
-* Debian 10 (Tested) (Web/DB & Agent)
-* Debian 11 (Tested) (Web/DB & Agent)
-* Ubuntu 22.04 (Tested) (Web/DB & Agent)
+* Debian 10 (Tested) 
+* Debian 11 (Tested) 
+* Ubuntu 22.04 (Tested) 
 
 >***This has been setup as root on fresh installs***
 
